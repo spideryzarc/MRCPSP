@@ -19,3 +19,5 @@ solution in mmlib.eu upload format (visit: www.mmlib.eu)
  * J100Sols.7z
  * J50Sols.7z
  * J30Sols.7z
+Summary Tables
+ * PRResult.ods
