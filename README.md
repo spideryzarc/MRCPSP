@@ -21,4 +21,11 @@ boctor100.mm.tgz
  * J50Sols.7z
  * J30Sols.7z
 ### Summary Tables
- * PRResult.ods
+ * PRResult.ods -- final method
+ * _NR -- no reflesh
+ * _NTB -- no tiebreak
+ * _IO -- force intensive order swap mode
+ * _IM -- force intensive mode swap mode
+ * _NC -- no MA compression 
+ * _AOS -- try all order swap
+ * _AMS2 -- try all mode2swap
