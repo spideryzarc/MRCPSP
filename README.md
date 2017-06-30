@@ -16,10 +16,7 @@ boctor100.mm.tgz
 ---
 ## PR's  best solutions 50k schedules for mmlib instances
 ### solution in mmlib.eu upload format (visit: www.mmlib.eu)
- * JallSols.7z
- * J100Sols.7z
- * J50Sols.7z
- * J30Sols.7z
+ * solutions.zip
 ### Summary Tables
- * PRResult.ods 
+ * PRResult.xls 
  
